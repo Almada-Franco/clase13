@@ -1,2 +1,3 @@
 Dia domingo, practicando el manejo de git en equipo, verificando
-el uso de comandos y posibles futuros errores
+el uso de comandos y posibles futuros errores. En este momento
+estamos probando que pasa al pisar las mismas modificaciones.
