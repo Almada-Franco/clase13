@@ -1,2 +1,4 @@
 Dia domingo, practicando el manejo de git en equipo, verificando
 el uso de comandos y posibles futuros errores
+
+Unas ganas de ya ser programador y mandar el playground a volar
